@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/f1plus1/_next/static/chunks/1_5-khtmyaopq.js","/f1plus1/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[97367,["/f1plus1/_next/static/chunks/1_5-khtmyaopq.js","/f1plus1/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"app timeline-detail-page","id":"main-content","tabIndex":-1,"children":["$","div",null,{"className":"shell","children":["$","section",null,{"className":"timeline","aria-label":"F1+1 公开内容详情","children":[["$","$L2",null,{"className":"detail-back-link","href":"/","children":"← 返回资讯流"}],["$","div",null,{"className":"state-box","role":"alert","aria-label":"这条公开内容不存在或当前不可用","children":[["$","span",null,{"className":"sb-code","aria-hidden":"true","children":"404"}],["$","span",null,{"className":"sb-title","children":"这条公开内容不存在或当前不可用"}],["$","span",null,{"className":"sb-msg","children":"链接可能已经失效，也可能尚未公开。"}]]}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oxWHb2JSjSEzinR4LSNzD"}
+5:null

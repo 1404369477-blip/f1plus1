@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/f1plus1/_next/static/chunks/1_5-khtmyaopq.js","/f1plus1/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+3:I[97367,["/f1plus1/_next/static/chunks/1_5-khtmyaopq.js","/f1plus1/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"color-scheme","content":"dark light"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"F1+1 · F1 中文资讯"}],["$","meta","1",{"name":"description","content":"聚合已发布的 F1 中文资讯、来源与原文入口"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oxWHb2JSjSEzinR4LSNzD"}

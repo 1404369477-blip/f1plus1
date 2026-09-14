@@ -1,1 +1,0 @@
-{"type":"urn:f1plus1:problem:PUBLIC_READ_INTEGRITY_FAILED","title":"Public read unavailable","status":503,"detail":"The signed public snapshot integrity check failed.","instance":"/api/public/feed","reasonCode":"PUBLIC_READ_INTEGRITY_FAILED","traceId":"trace-34e1780c-c118-4563-b8a8-64250ed9842e"}

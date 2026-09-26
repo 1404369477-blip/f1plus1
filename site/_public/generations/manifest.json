@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "public-generations-manifest-v1",
+  "generations": [
+    {
+      "id": "c0348562deb6bd24b55598849cb8675173277699f0fe83080eef3ea2d5ec227b",
+      "publishedAt": "2026-09-26T20:22:14.866Z",
+      "generatedAt": "2026-09-26T20:21:35.052Z"
+    },
+    {
+      "id": "766c213cf43071c14e71696779feaed21562d86908f92f3baa797aaad7260d38",
+      "publishedAt": "2026-09-26T19:51:08.562Z",
+      "generatedAt": "2026-09-26T19:50:31.568Z"
+    },
+    {
+      "id": "ccdf38a97b1490b16169355dbcb08f4980be0d7a05d6bd868d53366544e1ff8c",
+      "publishedAt": "2026-09-26T19:20:01.309Z",
+      "generatedAt": "2026-09-26T19:19:23.044Z"
+    },
+    {
+      "id": "dba9918aaaeee076ab54437b262baded0d97c7176c6d7bfa642b9d99405062bc",
+      "publishedAt": "2026-09-26T18:48:56.938Z",
+      "generatedAt": "2026-09-26T18:48:20.387Z"
+    },
+    {
+      "id": "73e761d352a705a4dc9387ca0912017b21930894df841c67190668251333ed2c",
+      "publishedAt": "2026-09-26T18:17:53.475Z",
+      "generatedAt": "2026-09-26T18:17:18.479Z"
+    },
+    {
+      "id": "00a757041941f7e407d06401d35dd220a40dd9ec82e9c247f5a44138318be2c0",
+      "publishedAt": "2026-09-26T17:56:54.277Z",
+      "generatedAt": "2026-09-26T17:55:57.339Z"
+    }
+  ]
+}
